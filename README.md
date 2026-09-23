@@ -1,2 +1,2 @@
 # CLG_SESSION
-This repo is for clg session only for practice
+This repo is for clg session only for practice done
